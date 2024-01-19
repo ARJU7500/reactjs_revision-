@@ -25,3 +25,8 @@ revised reactjs and create some projects
       A. how to use hooks.
       B. use of Hooks.
       C. create a mini small project(counter value) using hooks.
+
+**\*day 3rd \*\*\*** 5. virtual dom: read doc
+https://github.com/acdlite/react-fiber-architecture/blob/master/README.md
+
+6. tailwind and props
