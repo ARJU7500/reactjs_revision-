@@ -30,3 +30,8 @@ revised reactjs and create some projects
 https://github.com/acdlite/react-fiber-architecture/blob/master/README.md
 
 6. tailwind and props
+
+**\*day 3rd \*\*\***
+basic mini project
+
+background changer
