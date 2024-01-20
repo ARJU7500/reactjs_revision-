@@ -31,7 +31,9 @@ https://github.com/acdlite/react-fiber-architecture/blob/master/README.md
 
 6. tailwind and props
 
-**\*day 3rd \*\*\***
-basic mini project
-
-background changer
+**\*day 3rd \*\*\*** 7. basic mini project:
+background changer 8. use hooks:
+A. useState
+B. useCallback
+C. useEffect
+D. useRef
